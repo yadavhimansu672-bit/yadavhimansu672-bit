@@ -32,9 +32,8 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavhimansu672-bit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavhimansu672-bit&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yadavhimansu672-bit&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yadavhimansu672-bit&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yadavhimansu672-bit&layout=compact&theme=radical)
 
 <br>
 
